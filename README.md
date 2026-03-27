@@ -57,7 +57,8 @@
 
 아래는 System context diagram을 나타낸 그림이다.
 
-![System Context Diagram](./system-context.png)
+<img width="352" height="228" alt="image" src="https://github.com/user-attachments/assets/4d8d3079-feae-4a14-9fde-35005068e027" />
+
 
 ---
 
